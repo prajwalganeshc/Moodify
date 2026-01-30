@@ -46,13 +46,7 @@ Moodify/
 
 ## 🧠 How It Works
 
-User inputs text describing their mood
-NLP model detects the emotion
-Songs matching the detected mood are filtered
-Recommendations are displayed in real-time
-
-
-📱 Mobile-friendly UI
-
-☁️ Cloud deployment
-
+- User inputs text describing their mood
+- NLP model detects the emotion
+- Songs matching the detected mood are filtered
+- Recommendations are displayed in real-time
