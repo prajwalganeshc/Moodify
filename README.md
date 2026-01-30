@@ -27,22 +27,6 @@ Moodify is a simple yet powerful **AI-powered mood-based music recommendation sy
 
 ---
 
-## 📂 Project Structure
-
-📁 Modify/
-├── 📁 mood-music-recommender/
-│   ├── main.py
-│   ├── recommender.py
-│   ├── streamlit_app.py
-│   ├── test_emotion.py
-│   ├── download_dataset.py
-│   ├── songs.csv
-│   ├── spotify_tracks.csv
-│   ├── requirements.txt
-│   ├── .gitignore
-│   └── README.md
-
-
 ## 🧠 How It Works
 
 - User inputs text describing their mood
